@@ -1,0 +1,14 @@
+ADR-0001
+
+Why we chose Tree-sitter instead of Python AST.
+
+Status:
+Accepted.
+
+Reason:
+
+...
+
+Consequences:
+
+...
